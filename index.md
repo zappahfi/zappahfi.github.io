@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Welcome
+comments: true
 ---
 
 # 欢迎来到 HFI Zappa 的主页
