@@ -22,7 +22,7 @@ title: HFI Zappa 超～级数据库
 email: longyx.maverick2019@gdhfi.com
 description: >- # this means to ignore newlines until "baseurl:"
   存放HFI Y10主要文件的地方
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 然鹅并没有
 github_username:  hfizappa
