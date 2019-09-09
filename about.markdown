@@ -4,13 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+这是由Maverick创建的网站，主题为[Alain Pham](https://github.com/alainpham)设计的Simple Green Techblog,来自于[jekyllrb.com](https://jekyllrb.com/)
+/其实我在考虑要不要加个2D版娘可又觉得好破坏气氛啊啊啊嗷嗷……
 
-You can find the source code for Minima at GitHub:
+博客网站引擎Minima在GitHub的源码:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at GitHub:
+博客网站引擎Jekyll在GitHub的源码:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
