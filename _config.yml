@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   存放HFI Y10主要文件的地方
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 然鹅并没有这种东西的说
+twitter_username: 然鹅并没有
 github_username:  hfizappa
 
 # Build settings
