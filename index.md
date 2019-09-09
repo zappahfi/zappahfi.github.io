@@ -1,10 +1,8 @@
-## Welcome to HFI Zappa File Pages
+## 欢迎来到 HFI Zappa 的主页
 
-## Nothing here till now.
+## 现在我还没向网站中放任何文件。
 
-## I'll finish it soon.
-
-
+## 很快就好。
 
 
 
@@ -15,6 +13,8 @@
 
 
 
-### Support or Contact
 
-Having trouble with Pages? Check out QQ:6197632(Primary Choice) or Wechat:twinturbo2014 and I’ll help you sort it out.
+
+### 无法下载文件？
+
+直接找Maverick嘞，咱随叫随到，立刻帮你搞定。
