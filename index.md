@@ -10,4 +10,4 @@ comments: true
 
 ## 无法下载文件？
 
-直接找Maverick嘞，咱随叫随到，立刻帮你搞定。
+请找Maverick
