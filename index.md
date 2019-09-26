@@ -6,7 +6,7 @@ comments: true
 
 # 欢迎来到 HFI Zappa 的主页
 
-# [Educated下载](https://zappahfi.github.io/Educated.pdf)
+# [Educated下载](https://zappahfi.github.io/Files/Educated.pdf)
 
 ## 无法下载文件？
 
